@@ -1,0 +1,16 @@
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ClassroomExercise2.csprojAssemblyReference.cache
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ClassroomExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ClassroomExercise2.AssemblyInfoInputs.cache
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ClassroomExercise2.AssemblyInfo.cs
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ClassroomExercise2.csproj.CoreCompileInputs.cache
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\bin\Debug\net5.0\ClassroomExercise2.exe
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\bin\Debug\net5.0\ClassroomExercise2.deps.json
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\bin\Debug\net5.0\ClassroomExercise2.runtimeconfig.json
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\bin\Debug\net5.0\ClassroomExercise2.runtimeconfig.dev.json
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\bin\Debug\net5.0\ClassroomExercise2.dll
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\bin\Debug\net5.0\ref\ClassroomExercise2.dll
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\bin\Debug\net5.0\ClassroomExercise2.pdb
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ClassroomExercise2.dll
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ref\ClassroomExercise2.dll
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ClassroomExercise2.pdb
+C:\Users\zhangbirui\source\repos\ClassroomExercise2\obj\Debug\net5.0\ClassroomExercise2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\bin\Debug\net5.0\AlarmClock.exe
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\bin\Debug\net5.0\AlarmClock.deps.json
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\bin\Debug\net5.0\AlarmClock.runtimeconfig.json
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\bin\Debug\net5.0\AlarmClock.runtimeconfig.dev.json
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\bin\Debug\net5.0\AlarmClock.dll
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\bin\Debug\net5.0\ref\AlarmClock.dll
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\bin\Debug\net5.0\AlarmClock.pdb
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\AlarmClock.csprojAssemblyReference.cache
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\AlarmClock.AssemblyInfoInputs.cache
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\AlarmClock.AssemblyInfo.cs
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\AlarmClock.dll
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\ref\AlarmClock.dll
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\AlarmClock.pdb
+C:\Users\34979\source\repos\AlarmClock\AlarmClock\obj\Debug\net5.0\AlarmClock.genruntimeconfig.cache

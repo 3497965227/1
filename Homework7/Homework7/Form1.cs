@@ -44,17 +44,25 @@ namespace Homework7
         }
         private void button1_Click_1(object sender, EventArgs e)
         {
+            n = Convert.ToInt32(textBox1.Text);
+            th1 = Convert.ToDouble(textBox6.Text);
+            th2 = Convert.ToDouble(textBox3.Text);
+            per1 = Convert.ToDouble(textBox4.Text);
+            per2 = Convert.ToDouble(textBox5.Text);
+            leng = Convert.ToInt32(textBox2.Text);
+        
             if (graphics == null) graphics = this.CreateGraphics();
             drawCayleyTree(n, 400, 600, leng, -Math.PI/2);
         }
 
         private Graphics graphics;
-        double th1;
-        double th2;
-        double per1;
-        double per2;
+        double th1=0.5;
+        double th2=0.5;
+        double per1=0.5;
+        double per2=0.5;
         int n;
-        double leng;
+        double leng=100;
+        Pen col;
 
 
         void drawCayleyTree(int n, double x0, double y0, double leng,double th)
@@ -85,54 +93,43 @@ namespace Homework7
         }
 
         private void textBox1_TextChanged_1(object sender, EventArgs e) {
-            if (textBox1.Text != null)
-            {
-                n = Int32.Parse(textBox1.Text);
-            }
+            
 
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            if (textBox2.Text != null)
-            {
-                leng = double.Parse(textBox2.Text);
-            }
+           
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            if (textBox3.Text != null) { 
-            per1 = double.Parse(textBox3.Text);
-        }
+          
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
-            if (textBox4.Text!= null){
-                per2 = double.Parse(textBox4.Text);
-            }
+            
         }
 
         private void textBox5_TextChanged(object sender, EventArgs e)
         {
-            if (textBox5.Text != null)
-            {
-                th1 = double.Parse(textBox5.Text);
-            }
+            
         }
 
         private void textBox6_TextChanged(object sender, EventArgs e)
         {
-            if (textBox6.Text != null)
-            {
-                th2 = double.Parse(textBox6.Text);
-            }
+            
         }
 
         private void textBox7_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }

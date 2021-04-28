@@ -59,8 +59,8 @@ namespace homework5
                 orderService.QueryAll().ForEach(
                     o => Console.WriteLine(o));
 
-
-                orders.Sort().ForEach(
+                Console.WriteLine("\nOrder by order ID");
+                orderService.Sort().ForEach(
                     o => Console.WriteLine(o));
 
                 

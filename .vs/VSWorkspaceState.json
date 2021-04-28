@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\homework5",
     "\\homework5\\homework5",
-    "\\homework5\\homework5.Tests"
+    "\\homework5\\homework5.Tests",
+    "\\homework5\\homework5.Tests\\obj\\Debug"
   ],
-  "SelectedNode": "\\homework5\\homework5.sln",
+  "SelectedNode": "\\homework5",
   "PreviewInSolutionExplorer": false
 }

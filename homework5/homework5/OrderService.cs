@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Xml.Serialization;
 
 namespace homework5
 {
@@ -63,6 +65,28 @@ namespace homework5
             var orderlist = orderList.Where(o => o.TotalPrice == price);
             return orderlist.ToList();
         }
+        public void Export(String fileName)
+        {
+            XmlSerializer xs = new XmlSerializer(typeof(List<Order>));
+            using (FileStream fs = new FileStream(fileName, FileMode.Create))
+            {
+                xs.Serialize(fs, orderList);
+            }
+        }
+    
+
+         public void Import(string path) {
+            XmlSerializer xs = new XmlSerializer(typeof(List<Order>));
+             using (FileStream fs = new FileStream(path, FileMode.Open)) {
+             List<Order> temp = (List<Order>)xs.Deserialize(fs);
+             temp.ForEach(order => {
+             if (!orderList.Contains(order)) {
+                orderList.Add(order);
+             }
+             });
+         }
+    }
+   
        
     }
 }

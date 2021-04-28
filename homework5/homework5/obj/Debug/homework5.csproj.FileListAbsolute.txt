@@ -4,3 +4,7 @@
 /Users/zhangbirui/Projects/homework5/homework5/bin/Debug/homework5.pdb
 /Users/zhangbirui/Projects/homework5/homework5/obj/Debug/homework5.exe
 /Users/zhangbirui/Projects/homework5/homework5/obj/Debug/homework5.pdb
+C:\Users\34979\source\repos\3497965227\1\homework5\homework5\obj\Debug\homework5.csprojAssemblyReference.cache
+C:\Users\34979\source\repos\3497965227\1\homework5\homework5\obj\Debug\homework5.csproj.CoreCompileInputs.cache
+C:\Users\34979\source\repos\3497965227\1\homework5\homework5\obj\Debug\homework5.exe
+C:\Users\34979\source\repos\3497965227\1\homework5\homework5\obj\Debug\homework5.pdb

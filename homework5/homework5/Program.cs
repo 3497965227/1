@@ -60,7 +60,8 @@ namespace homework5
                     o => Console.WriteLine(o));
 
 
-                orders.Sort();
+                orders.Sort().ForEach(
+                    o => Console.WriteLine(o));
 
                 
             }

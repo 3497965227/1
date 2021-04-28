@@ -59,7 +59,7 @@ namespace homework5
                 orderService.QueryAll().ForEach(
                     o => Console.WriteLine(o));
 
-                Console.WriteLine("\n order by Amount");
+
                 orders.Sort();
 
                 

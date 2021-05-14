@@ -1,0 +1,16 @@
+C:\Users\34979\source\repos\homework9\homework9\bin\Debug\net5.0\homework9.exe
+C:\Users\34979\source\repos\homework9\homework9\bin\Debug\net5.0\homework9.deps.json
+C:\Users\34979\source\repos\homework9\homework9\bin\Debug\net5.0\homework9.runtimeconfig.json
+C:\Users\34979\source\repos\homework9\homework9\bin\Debug\net5.0\homework9.runtimeconfig.dev.json
+C:\Users\34979\source\repos\homework9\homework9\bin\Debug\net5.0\homework9.dll
+C:\Users\34979\source\repos\homework9\homework9\bin\Debug\net5.0\ref\homework9.dll
+C:\Users\34979\source\repos\homework9\homework9\bin\Debug\net5.0\homework9.pdb
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\homework9.csprojAssemblyReference.cache
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\homework9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\homework9.AssemblyInfoInputs.cache
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\homework9.AssemblyInfo.cs
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\homework9.csproj.CoreCompileInputs.cache
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\homework9.dll
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\ref\homework9.dll
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\homework9.pdb
+C:\Users\34979\source\repos\homework9\homework9\obj\Debug\net5.0\homework9.genruntimeconfig.cache
